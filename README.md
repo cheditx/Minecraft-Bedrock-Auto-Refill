@@ -1,5 +1,5 @@
 # Minecraft-Bedrock-Auto-Refill
-A simple C# code that allows you to take all the potions available in your inventory and put them in the hotbar quickly.
+A simple C# code that allows you to take all the potions available in your inventory and put them in the hotbar quickly just by clicking "E" once.
 This code was written simply out of boredom, I personally don't use it and I won't use it, it was just out of boredom xd, so don't take the code seriously, I was just bored.
 
 # Video Demonstration (Click The Image)
