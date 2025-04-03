@@ -60,7 +60,7 @@ public abstract class AutoRefill {
                 continue;
             }
             
-            Thread.Sleep(25); // Use 25 only if you use flarial with fast inventory mod, otherwise use 250.
+            Thread.Sleep(250); // Use 25 only if you use flarial with fast inventory mod, otherwise use 250.
             InputSimulator.Keyboard.KeyDown(VirtualKeyCode.LSHIFT);
             
             var x = 23615;
