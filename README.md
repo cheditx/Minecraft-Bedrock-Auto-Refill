@@ -6,7 +6,7 @@ This code was written simply out of boredom, I personally don't use it and I won
 [![Click Me](https://img.youtube.com/vi/glGUwHp5wqI/0.jpg)](https://youtu.be/glGUwHp5wqI)
 
 # Download
-To easily download and run the code you should use the exe reported in the [releases](https://github.com/cheditx/Minecraft-Bedrock-Auto-Refill/releases).
+To easily download and run the code you should use the exe reported in the [releases](https://github.com/cheditx/Minecraft-Bedrock-Auto-Refill/releases/tag/v1).
 
 # ⚠️ Warning ⚠️
 Do not use this code on servers where it is not allowed, otherwise you will be banned since it is a "cheat", by using this code you assume all responsibilities.
