@@ -61,6 +61,8 @@ public abstract class AutoRefill {
             if (!InputSimulator.InputDeviceState.IsKeyDown(VirtualKeyCode.VK_F)) {
                 continue;
             }
+
+            InputSimulator.Keyboard.KeyPress(VirtualKeyCode.VK_E);
             
             Thread.Sleep(250); // Use 25 only if you use flarial with fast inventory mod, otherwise use 250.
             InputSimulator.Keyboard.KeyDown(VirtualKeyCode.LSHIFT);
