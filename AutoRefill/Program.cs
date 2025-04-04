@@ -1,5 +1,7 @@
-﻿using System.Runtime.InteropServices;
+using System;
+using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using WindowsInput;
 using WindowsInput.Native;
 
@@ -56,7 +58,7 @@ public abstract class AutoRefill {
                 continue;
             }
             
-            if (!InputSimulator.InputDeviceState.IsKeyDown(VirtualKeyCode.VK_E)) {
+            if (!InputSimulator.InputDeviceState.IsKeyDown(VirtualKeyCode.VK_F)) {
                 continue;
             }
             
